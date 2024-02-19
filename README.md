@@ -13,4 +13,5 @@ Stamparlo in pagina in un tag HTML (commit-push)
  1. Chiedo all'utente il suo nome e lo salvo in una variabile
  1. Chiedo all'utente il suo cognome e lo salvo in una variabile
  1. Chiedo all'utente il suo colore preferito e lo salvo in una variabile
- 1. Stampo in pagina le tre variabili aggiungendo "24" alla fine
+ 1. Creo una variabile con i tre dati raccolti aggiungendo "24" alla fine
+ 1. Stampo in pagina la password
