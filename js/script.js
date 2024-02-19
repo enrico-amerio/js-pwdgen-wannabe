@@ -12,3 +12,4 @@ console.log(color);
 const password = firstName + lastName + color + '24';
 console.log(password)
 
+document.getElementById('mypassword').innerHTML = password;
